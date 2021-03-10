@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Learning to Code!!
 
-I'm glad you are here. I plan to talk about ...
+__Hope I'll be good at it__
+
+*never done this before*
